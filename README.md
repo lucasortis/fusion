@@ -9,8 +9,8 @@ Navegue até a pasta da aplicação e digite: docker-compose build
 
 3 imagens serão criadas dentro do docker.
 
-Digite o seguinte comando para subir os containers: docker-compose up -d
+Digite o seguinte comando para subir os containers: **docker-compose up -d**
 
-Para verificar se os containers estão rodando: docker ps -a 
+Para verificar se os containers estão rodando: **docker ps -a **
 
-E para excluir os containers: docker-compose down
+E para excluir os containers: **docker-compose down**
